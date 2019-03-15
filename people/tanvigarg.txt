@@ -1,0 +1,1 @@
+Hi everyone, I am Tanvi. I am recent grad of Epicodus code school. My focus has been on mainly front-end technologies like JS ES6, Angular, React and Redux. I am excited to be at Hack Oregon, to learn and contribute.
