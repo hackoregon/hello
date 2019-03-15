@@ -11,3 +11,6 @@ To test your git configuration and organization membership, make a pull request 
 5. Commit your changes `git commit -am "helpful message here"`
 5. Push your branch to the remote `git push -u origin add-firstname-lastname`
 6. Open a pull request to add your name!
+7. Profit!
+
+# Yay!
